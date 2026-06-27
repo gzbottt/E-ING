@@ -1,0 +1,6 @@
+{
+  "name": "E-ING - Bahasa Inggris Vokasi SMK",
+  "description": "Platform pembelajaran Bahasa Inggris Vokasi khusus siswa dan lulusan SMK untuk siap kerja di luar negeri (Eropa). Dilengkapi modul industri, kelas live, lowongan P3MI, dan komunitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
