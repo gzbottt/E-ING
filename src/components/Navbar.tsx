@@ -29,7 +29,7 @@ export function Navbar({ activeTab, onTabChange, onOpenAuth }: NavbarProps) {
             E-ING
           </span>
           <span className="text-[10px] font-medium text-slate-400 mt-1 tracking-tight">
-            Slogan gan gun gunung
+            Learn Local, Work Global
           </span>
         </div>
 
