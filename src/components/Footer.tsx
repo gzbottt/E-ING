@@ -16,7 +16,7 @@ export function Footer({ onTabChange }: FooterProps) {
               E-ING
             </span>
             <span className="text-[11px] font-semibold text-slate-400 mt-0.5 tracking-tight">
-              Slogan gan gun gunung
+              Learn Local, Work Global
             </span>
           </div>
           <p className="text-sm text-slate-400 max-w-sm leading-relaxed font-normal">
