@@ -91,7 +91,7 @@ export function HeroSection({ onTabChange, onOpenAuth }: HeroSectionProps) {
             className="lg:col-span-5 mt-6 lg:mt-0 flex justify-center items-center"
           >
             <img
-              src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&auto=format&fit=crop&q=80"
+              src="../gambar.png?w=800&auto=format&fit=crop&q=80"
               alt="Siswa SMK Siap Kerja ke Eropa"
               referrerPolicy="no-referrer"
               className="w-full max-w-md h-80 sm:h-96 object-cover rounded-3xl"
