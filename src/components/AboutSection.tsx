@@ -76,7 +76,7 @@ export function AboutSection() {
         {/* E-ING Mission & Motto */}
         <div className="max-w-4xl mx-auto rounded-3xl bg-gradient-to-r from-slate-900 to-blue-950 text-white p-8 sm:p-12 text-center space-y-6 shadow-2xl">
           <span className="text-xs font-bold uppercase tracking-widest text-blue-400">Komitmen Pendidikan & Vokasi</span>
-          <h3 className="text-2xl sm:text-3xl font-black">"Slogan gan gun gunung"</h3>
+          <h3 className="text-2xl sm:text-3xl font-black">"Learn Local, Work Global"</h3>
           <p className="text-sm text-slate-300 max-w-xl mx-auto leading-relaxed">
             Menembus puncak prestasi global berbekal kompetensi kosa kata spesifik dan keberanian bertutur kata berstandar Eropa.
           </p>
